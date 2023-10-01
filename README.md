@@ -1,1 +1,1 @@
-# rust_matrix
+To execute the code: cargo bench
